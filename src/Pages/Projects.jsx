@@ -19,8 +19,8 @@ function Projects() {
 
         <div className="project-grid">
           <div className="project-card">
-            <h3>Portfolio Website</h3>
-            <p>React-based portfolio to showcase my skills and projects.</p>
+            <h3>Food Zone Clone</h3>
+            <p>React-based online food ordering application.</p>
             <p>
               🔗 <a href="https://foodzoneclone.netlify.app/" target="_blank" rel="noopener noreferrer">Live</a> | 
               💻 <a href="https://github.com/Siddhi1105/FoodZone-clone" target="_blank" rel="noopener noreferrer">GitHub</a>
@@ -28,8 +28,8 @@ function Projects() {
           </div>
 
           <div className="project-card">
-            <h3>Food Ordering System</h3>
-            <p>A simple React web app for browsing and ordering food.</p>
+            <h3>Fashion Store</h3>
+            <p>Built Fashion Store in React to improve UI skills and practice routing with a real-world layout.</p>
             <p>
               🔗 <a href="https://fashionstoreclone.netlify.app/" target="_blank" rel="noopener noreferrer">Live</a> | 
               💻 <a href="https://github.com/Siddhi1105/FashionStoreClone" target="_blank" rel="noopener noreferrer">GitHub</a>
@@ -38,13 +38,14 @@ function Projects() {
 
 
           <div className="project-card">
-            <h3>Facebook UI Clone</h3>
-            <p>Basic one-page UI built using HTML & CSS.</p>
-            <p>
-              🔗 <a href="https://your-live-link-facebook-ui.netlify.app" target="_blank" rel="noopener noreferrer">Live</a> | 
-              💻 <a href="https://github.com/yourusername/facebook-ui-clone" target="_blank" rel="noopener noreferrer">GitHub</a>
-            </p>
-          </div>
+  <h3>Inventory Management</h3>
+  <p>MERN Stack app with login, product management, and authentication using JWT.</p>
+  <p>
+    🔗 <a href="https://bookstore-sidhi-nanaware.netlify.app" target="_blank" rel="noopener noreferrer">Live</a> | 
+    💻 <a href="https://github.com/Siddhi1105/bookstore-client" target="_blank" rel="noopener noreferrer">GitHub</a>
+  </p>
+</div>
+
         </div>
       </div>
     </div>

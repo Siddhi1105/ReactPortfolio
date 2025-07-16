@@ -21,12 +21,12 @@ function Contact() {
           <div className="contact-card">
             <FaPhone className="contact-icon" />
             <div className="contact-label">Phone</div>
-            <div className="contact-value">+91 98765 43210</div>
+            <div className="contact-value">+91 73509 16553</div>
           </div>
           <div className="contact-card">
             <FaEnvelope className="contact-icon" />
             <div className="contact-label">Email</div>
-            <div className="contact-value">siddhi@example.com</div>
+            <div className="contact-value">siddhi.nanaware2004@gmail.com</div>
           </div>
           <div className="contact-card">
             <FaLinkedin className="contact-icon" />
