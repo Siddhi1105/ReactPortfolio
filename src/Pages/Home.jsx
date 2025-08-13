@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "../App.css"; 
-import PImage from '../Image/Profile.jpg'
+import PImage from '../Image/portfolio.jpg'
 
 function Home() {
   return (
@@ -19,7 +19,7 @@ function Home() {
         <div className="hero-left">
           <span className="tagline">SIDDHI NANANWARE</span>
           <h1>HEY! I'M SIDDHI</h1>
-          <h2  className="animated-text">I'M A <span className="animated-text"> WEB DEVELOPER </span></h2>
+          <h2  className="animated-text">I'M A <span className="animated-text"> DEVELOPER </span></h2>
           <p>
             I’m passionate about building web apps, solving problems, and creating interactive user experiences that deliver value.
           </p>
